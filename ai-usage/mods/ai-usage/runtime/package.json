@@ -1,0 +1,5 @@
+{
+  "name": "herdr-ai-usage-runtime",
+  "private": true,
+  "dependencies": { "@openai/codex": "0.167.0" }
+}

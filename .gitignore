@@ -1,0 +1,26 @@
+# Local settings, credentials, and provider state
+**/config.json
+**/.env
+**/.env.*
+!**/.env.example
+**/*session*.json
+**/*credentials*.json
+**/*token*.json
+**/.reset-attempt.json*
+**/.reset-lock/
+**/node_modules/
+**/__pycache__/
+**/*.pyc
+**/gpui-kit.d.ts
+**/herdr.d.ts
+**/jsconfig.json
+**/*.error
+**/*.log
+.DS_Store
+# Never export Herdr's machine-specific state
+shared.json
+view.json
+window.json
+windows.json
+data/
+layouts/.state/

@@ -1,0 +1,6 @@
+{
+  "node": "/absolute/path/to/node",
+  "codex": "runtime/node_modules/@openai/codex-darwin-arm64/vendor/aarch64-apple-darwin/bin/codex",
+  "copilot": "/absolute/path/to/copilot",
+  "copilotSdk": "/absolute/path/to/copilot-sdk/index.js"
+}
