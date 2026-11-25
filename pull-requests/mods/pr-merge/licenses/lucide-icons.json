@@ -1,0 +1,34 @@
+{
+  "revision": "164efbaf879fb29f55d88047efd49fc7725f53ab",
+  "license": {
+    "path": "licenses/Lucide-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/LICENSE",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  "icons": [
+    {
+      "path": "icons/alert.svg",
+      "upstream": "triangle-exclamation-point",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/triangle-exclamation-point.svg",
+      "sha256": "4866f38b8560d410f21e3226413e0b77997b6dfbb6931fadfe0a0d5aef9ffeb4"
+    },
+    {
+      "path": "icons/merge.svg",
+      "upstream": "git-merge",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/git-merge.svg",
+      "sha256": "1199a8738328e9faa9d1e18b4053e6849a473aa9456117006c92681f6d547477"
+    },
+    {
+      "path": "icons/pull-request.svg",
+      "upstream": "git-pull-request",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/git-pull-request.svg",
+      "sha256": "6dbc18c42d08f225e3fc0a34fe5bf62d8b2abae83ada8163f3bbb649f2b8d25f"
+    },
+    {
+      "path": "icons/spinner.svg",
+      "upstream": "loader-circle",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/loader-circle.svg",
+      "sha256": "043021bb903919668804bdb6fee0342072e4ffea5f03fbd857774c440179ad3b"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "revision": "164efbaf879fb29f55d88047efd49fc7725f53ab",
+  "license": {
+    "path": "licenses/Lucide-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/LICENSE",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  "icons": [
+    {
+      "path": "jira.svg",
+      "upstream": "panels-top-left",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/panels-top-left.svg",
+      "sha256": "321a2a5500f2b814a2e62eb73c4b01dc65c7334fe2e6f7d77517239383e26bb1"
+    },
+    {
+      "path": "priority-high.svg",
+      "upstream": "chevron-up",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/chevron-up.svg",
+      "sha256": "d09f13fcbef3c493ead7e4663b5ee91804fec38d5edb5e7cc3acfbd547641cf4"
+    },
+    {
+      "path": "priority-highest.svg",
+      "upstream": "chevrons-up",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/chevrons-up.svg",
+      "sha256": "dcc30f99a1e3177505dee39749fec4722cf567d420d6829780990ef744ea533c"
+    },
+    {
+      "path": "priority-low.svg",
+      "upstream": "chevron-down",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/chevron-down.svg",
+      "sha256": "66ea878e72ed3488bb3b464c39dfdccee8d1f78e560dccea40e5e12da0e87e87"
+    },
+    {
+      "path": "priority-lowest.svg",
+      "upstream": "chevrons-down",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/chevrons-down.svg",
+      "sha256": "9dca099985dea6e28522bff10671b3b5e7ea88f7409a5efd8ede631480f4e133"
+    },
+    {
+      "path": "priority-medium.svg",
+      "upstream": "minus",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/minus.svg",
+      "sha256": "a0c743ab6dbf545d8a6e19ef3874f48ede686ce68d25e231bd81f540d97b1f19"
+    },
+    {
+      "path": "priority-unknown.svg",
+      "upstream": "circle-question-mark",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/circle-question-mark.svg",
+      "sha256": "8cfdf0cbb7a743e2fa0efe5d7f90c31729dc071057d7f95f2363bfb773997f7e"
+    }
+  ]
+}

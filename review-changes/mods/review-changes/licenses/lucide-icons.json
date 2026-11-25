@@ -1,0 +1,16 @@
+{
+  "revision": "164efbaf879fb29f55d88047efd49fc7725f53ab",
+  "license": {
+    "path": "licenses/Lucide-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/LICENSE",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  "icons": [
+    {
+      "path": "changes.svg",
+      "upstream": "file-diff",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/file-diff.svg",
+      "sha256": "b6a0820a3cd44c3b11ed62aa0bf7d61a038ed52f29d91a47eb9fbade801fbdb9"
+    }
+  ]
+}

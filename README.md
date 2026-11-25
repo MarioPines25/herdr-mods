@@ -1,8 +1,10 @@
 # Personal Herdr mods
 
-A private staging collection of nine personal [Herdr](https://herdr.dev) mods, organized into five installable bundles. This repository contains sanitized source exports, not the running app's configuration or state.
+A public collection of nine personal [Herdr](https://herdr.dev) mods, organized into five installable bundles. This repository contains sanitized source exports, not the running app's configuration or state.
 
-**Not yet cleared for public release.** See [PUBLIC-READINESS.md](PUBLIC-READINESS.md) for remaining licensing/provenance and packaging checks.
+**Release clearance is still incomplete.** Current SVG assets have pinned license provenance, the exact Herdr v0.1.14 source license is verified, and technical checks pass. A license for original work, historical asset versions and authenticated smoke tests remain open. See [PUBLIC-READINESS.md](PUBLIC-READINESS.md).
+
+Each bundle includes a labeled synthetic preview; recipes display the reproducible SVG, with a supplemental PNG. These are illustrations with invented data, not screenshots of real accounts. Each mod carries its own third-party notices when installed independently.
 
 | Bundle | Mods | Purpose |
 |---|---|---|
@@ -34,11 +36,16 @@ Node.js and Git are required for the fake-provider/unit tests. From this reposit
 
 ```sh
 find . -name '*.test.mjs' -print0 | xargs -0 node --test
-for mod in */mods/*; do herdr-app check "$mod" || exit 1; done
+python3 scripts/vendor-icons.py
+python3 scripts/package-notices.py --check
+python3 -m unittest discover -s tests -p 'test_*.py'
 python3 scripts/check-export.py
+python3 scripts/check-native.py  # installed Herdr; uses an isolated temporary home
 ```
 
-The tests do not spend real credits, edit real Jira issues, or change live GitHub PRs. Native checks skip background service queries. Full UI and authenticated service testing must be done separately.
+The tests do not spend real credits, edit real Jira issues, or change live GitHub PRs. Native checks skip background service queries. Full UI and authenticated service testing must be done separately. GitHub Actions runs the offline tests, icon hash verification and export hygiene checks; it does not claim native UI/service integration.
+
+To regenerate illustrative previews: `python3 scripts/build-previews.py --png` (PNG generation requires macOS `sips`). To reproduce bundled SVGs from their pinned source: `python3 scripts/vendor-icons.py --refresh` (network access required). Run `python3 scripts/package-notices.py` after intentional asset/license updates so per-mod notice copies stay synchronized.
 
 ## License
 

@@ -1,0 +1,34 @@
+{
+  "revision": "164efbaf879fb29f55d88047efd49fc7725f53ab",
+  "license": {
+    "path": "licenses/Lucide-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/LICENSE",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  "icons": [
+    {
+      "path": "chevron-down.svg",
+      "upstream": "chevron-down",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/chevron-down.svg",
+      "sha256": "66ea878e72ed3488bb3b464c39dfdccee8d1f78e560dccea40e5e12da0e87e87"
+    },
+    {
+      "path": "chevron-right.svg",
+      "upstream": "chevron-right",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/chevron-right.svg",
+      "sha256": "2758143d7b2434e4aa7307dfd34405c87909ff4052f21b5f3f40d45224b4f19b"
+    },
+    {
+      "path": "file.svg",
+      "upstream": "file",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/file.svg",
+      "sha256": "499039795d7412d67664ff79d2eb6b7412e746b24c18c8fd8aba383c24ddada0"
+    },
+    {
+      "path": "folder.svg",
+      "upstream": "folder",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/164efbaf879fb29f55d88047efd49fc7725f53ab/icons/folder.svg",
+      "sha256": "f0d92b94b797a8ab7d4c4ae33c3236c47f64068351b4e14bdb5014ee42898a39"
+    }
+  ]
+}

@@ -1,7 +1,14 @@
-# Licensing status — private staging only
+# Licensing status
 
-No new blanket redistribution license is granted by this staging repository. The repository owner still needs to choose a license for their original contributions.
+**The owner has not yet chosen a redistribution license for original contributions.** Public GitHub visibility does not itself grant an open-source license. Please do not treat this collection as fully license-cleared.
 
-Some source and assets are derived from Herdr, Lucide/Feather, GitHub Primer/Octicons, and Marked. Their existing terms remain applicable and are not superseded by this document. See THIRD-PARTY-NOTICES.md and bundled vendor/icon licenses.
+Third-party terms remain applicable:
 
-The installed Herdr app supplies an Apache-2.0 license, preserved in licenses/Herdr-Apache-2.0.txt. Exact source-version provenance for the 0.1.14 clones, and permissions for certain icons, still need confirmation before public distribution. Presence in this private repository is not proof of redistribution rights.
+- Current bundled mod SVGs: Lucide ISC and applicable Feather MIT terms; exact pinned sources and full notices are in licenses/icon-manifest.json and licenses/Lucide-LICENSE.txt.
+- Marked and Markdown: the license beside the vendored parser preserves both sets of terms.
+- Primer color attribution and older Octicons notices are retained in the PR bundle.
+- Herdr-derived source: the official v0.1.14 commit explicitly supplies Apache-2.0. Its exact source, license hash, retained notices and modification markers are documented in THIRD-PARTY-NOTICES.md. No named copyright holder is invented.
+
+See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) and [PUBLIC-READINESS.md](PUBLIC-READINESS.md). Historical asset versions in the initial commit are not retroactively licensed by the current replacements.
+
+The remaining owner decision is whether to license original work under MIT, Apache-2.0, or another chosen license. Whichever is selected must not override third-party notices or claim ownership of inherited code.

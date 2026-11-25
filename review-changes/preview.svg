@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img">
+<title>Review changes — synthetic schematic</title>
+<desc>Illustrative layout using invented data. Not a captured application frame.</desc>
+<rect width="1200" height="720" rx="16" fill="#11161d"/>
+<text x="36" y="50" font-family="sans-serif" font-size="28" fill="#e7edf5">Review changes</text>
+<text x="36" y="84" font-family="sans-serif" font-size="16" fill="#a3afbf">Local Git diff, anchored notes, Markdown export and guarded discard</text>
+<rect x="36.0" y="115" width="554.0" height="510" rx="12" fill="#1b232e" stroke="#354052"/>
+<text x="56.0" y="154" font-family="sans-serif" font-size="21" fill="#79b7ff">Changes</text>
+<text x="56.0" y="202" font-family="sans-serif" font-size="17" fill="#e7edf5">M src/app.ts    +4 −2</text>
+<text x="56.0" y="245" font-family="sans-serif" font-size="17" fill="#a3afbf">M README.md     +1 −0</text>
+<text x="56.0" y="288" font-family="sans-serif" font-size="17" fill="#e7edf5"></text>
+<text x="56.0" y="331" font-family="sans-serif" font-size="17" fill="#a3afbf">Commit message…</text>
+<text x="56.0" y="374" font-family="sans-serif" font-size="17" fill="#e7edf5">Explicit Commit</text>
+<text x="56.0" y="417" font-family="sans-serif" font-size="17" fill="#a3afbf">Discard → confirmation</text>
+<rect x="610.0" y="115" width="554.0" height="510" rx="12" fill="#1b232e" stroke="#354052"/>
+<text x="630.0" y="154" font-family="sans-serif" font-size="21" fill="#79b7ff">Diff / notes</text>
+<text x="630.0" y="202" font-family="sans-serif" font-size="17" fill="#e7edf5">@@ app.ts @@</text>
+<text x="630.0" y="245" font-family="sans-serif" font-size="17" fill="#a3afbf">+ const visible = true;</text>
+<text x="630.0" y="288" font-family="sans-serif" font-size="17" fill="#e7edf5">Review note on selected line</text>
+<text x="630.0" y="331" font-family="sans-serif" font-size="17" fill="#a3afbf">Save / Edit / Delete note</text>
+<text x="630.0" y="374" font-family="sans-serif" font-size="17" fill="#e7edf5">Copy review Markdown</text>
+<text x="630.0" y="417" font-family="sans-serif" font-size="17" fill="#a3afbf">Unsaved draft blocks copy</text>
+<text x="36" y="666" font-family="sans-serif" font-size="15" fill="#a3afbf">SYNTHETIC SCHEMATIC · Invented data · Not a screenshot or live integration test</text>
+<text x="36" y="696" font-family="sans-serif" font-size="14" fill="#a3afbf">Personal Herdr mods · Colors and proportions are illustrative</text>
+</svg>

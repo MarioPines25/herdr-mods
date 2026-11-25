@@ -1,3 +1,9 @@
+# Current icon provenance
+
+The current SVGs in this folder are unmodified Lucide assets, replacing the former Octicons/unknown-origin glyphs. See the root licenses/icon-manifest.json for exact file URLs, revision and SHA-256 hashes, and licenses/Lucide-LICENSE.txt for ISC and applicable Feather MIT terms.
+
+The following historical source/color attribution is retained for context; it does not describe the replacement SVG files:
+
 # GitHub CI status assets
 
 These are original, unmodified 16px SVGs from GitHub's Primer Octicons (MIT):

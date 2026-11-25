@@ -1,4 +1,5 @@
 {
+  "modification_notice": "Modified personal derivative of Herdr 0.1.14; see bundled notices for source and license.",
   "id": "root",
   "cloned_from": {
     "name": "main",

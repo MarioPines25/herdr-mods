@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img">
+<title>Jira workspace — synthetic schematic</title>
+<desc>Illustrative layout using invented data. Not a captured application frame.</desc>
+<rect width="1200" height="720" rx="16" fill="#11161d"/>
+<text x="36" y="50" font-family="sans-serif" font-size="28" fill="#e7edf5">Jira workspace</text>
+<text x="36" y="84" font-family="sans-serif" font-size="16" fill="#a3afbf">Workspace chrome, terminals, Jira sprint panel and optional review panels</text>
+<rect x="36.0" y="115" width="362.6666666666667" height="510" rx="12" fill="#1b232e" stroke="#354052"/>
+<text x="56.0" y="154" font-family="sans-serif" font-size="21" fill="#79b7ff">Spaces / agents</text>
+<text x="56.0" y="202" font-family="sans-serif" font-size="17" fill="#e7edf5">example-project</text>
+<text x="56.0" y="245" font-family="sans-serif" font-size="17" fill="#a3afbf">  feature-example</text>
+<text x="56.0" y="288" font-family="sans-serif" font-size="17" fill="#e7edf5">Working · native spinner</text>
+<text x="56.0" y="331" font-family="sans-serif" font-size="17" fill="#a3afbf">Blocked · status dot</text>
+<text x="56.0" y="374" font-family="sans-serif" font-size="17" fill="#e7edf5">Done · status dot</text>
+<text x="56.0" y="417" font-family="sans-serif" font-size="17" fill="#a3afbf">Idle · no activity dot</text>
+<text x="56.0" y="460" font-family="sans-serif" font-size="17" fill="#e7edf5">Pull requests</text>
+<rect x="418.6666666666667" y="115" width="362.6666666666667" height="510" rx="12" fill="#1b232e" stroke="#354052"/>
+<text x="438.6666666666667" y="154" font-family="sans-serif" font-size="21" fill="#79b7ff">Terminal workspace</text>
+<text x="438.6666666666667" y="202" font-family="sans-serif" font-size="17" fill="#e7edf5">AI usage strip</text>
+<text x="438.6666666666667" y="245" font-family="sans-serif" font-size="17" fill="#a3afbf">Tabs · AI / Jira toggles</text>
+<text x="438.6666666666667" y="288" font-family="sans-serif" font-size="17" fill="#e7edf5"></text>
+<text x="438.6666666666667" y="331" font-family="sans-serif" font-size="17" fill="#a3afbf">$ git status</text>
+<text x="438.6666666666667" y="374" font-family="sans-serif" font-size="17" fill="#e7edf5">On branch feature-example</text>
+<text x="438.6666666666667" y="417" font-family="sans-serif" font-size="17" fill="#a3afbf"></text>
+<text x="438.6666666666667" y="460" font-family="sans-serif" font-size="17" fill="#e7edf5">Files / Changes panels</text>
+<rect x="801.3333333333334" y="115" width="362.6666666666667" height="510" rx="12" fill="#1b232e" stroke="#354052"/>
+<text x="821.3333333333334" y="154" font-family="sans-serif" font-size="21" fill="#79b7ff">Sprint panel</text>
+<text x="821.3333333333334" y="202" font-family="sans-serif" font-size="17" fill="#e7edf5">Active / Future</text>
+<text x="821.3333333333334" y="245" font-family="sans-serif" font-size="17" fill="#a3afbf">Assigned to me</text>
+<text x="821.3333333333334" y="288" font-family="sans-serif" font-size="17" fill="#e7edf5">EXAMPLE-101 · Add view</text>
+<text x="821.3333333333334" y="331" font-family="sans-serif" font-size="17" fill="#a3afbf">Status: In progress</text>
+<text x="821.3333333333334" y="374" font-family="sans-serif" font-size="17" fill="#e7edf5">Priority: High</text>
+<text x="821.3333333333334" y="417" font-family="sans-serif" font-size="17" fill="#a3afbf">Story points: 3</text>
+<text x="821.3333333333334" y="460" font-family="sans-serif" font-size="17" fill="#e7edf5">Explicit save to edit</text>
+<text x="36" y="666" font-family="sans-serif" font-size="15" fill="#a3afbf">SYNTHETIC SCHEMATIC · Invented data · Not a screenshot or live integration test</text>
+<text x="36" y="696" font-family="sans-serif" font-size="14" fill="#a3afbf">Personal Herdr mods · Colors and proportions are illustrative</text>
+</svg>

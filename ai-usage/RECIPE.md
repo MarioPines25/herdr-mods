@@ -1,6 +1,8 @@
 # AI usage
 
-A native allowance dashboard with a compact top strip and a detailed two-provider dialog. Preview pending; no live account screenshots are included.
+A native allowance dashboard with a compact top strip and a detailed two-provider dialog. Preview uses invented data, not a live account.
+
+![ai-usage — synthetic schematic](preview.svg)
 
 ## What you see
 A 64px strip with rounded Codex and Copilot groups, provider icons, and remaining percentages. Details opens a 980×740 dialog: Codex five-hour/weekly windows and credits alongside Copilot premium, Chat and Completions. Theme green/yellow/red correspond to above 50%, above 20% through 50%, and 20% or less. Unknown is a dash; unlimited is infinity.

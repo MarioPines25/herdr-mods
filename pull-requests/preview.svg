@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img">
+<title>Pull requests — synthetic schematic</title>
+<desc>Illustrative layout using invented data. Not a captured application frame.</desc>
+<rect width="1200" height="720" rx="16" fill="#11161d"/>
+<text x="36" y="50" font-family="sans-serif" font-size="28" fill="#e7edf5">Pull requests</text>
+<text x="36" y="84" font-family="sans-serif" font-size="16" fill="#a3afbf">Inbox → review → explicit comment, handoff or merge confirmation</text>
+<rect x="36.0" y="115" width="362.6666666666667" height="510" rx="12" fill="#1b232e" stroke="#354052"/>
+<text x="56.0" y="154" font-family="sans-serif" font-size="21" fill="#79b7ff">PR inbox</text>
+<text x="56.0" y="202" font-family="sans-serif" font-size="17" fill="#e7edf5">Assigned / Opened / Team</text>
+<text x="56.0" y="245" font-family="sans-serif" font-size="17" fill="#a3afbf">example/repository</text>
+<text x="56.0" y="288" font-family="sans-serif" font-size="17" fill="#e7edf5">#42 · Add preferences view</text>
+<text x="56.0" y="331" font-family="sans-serif" font-size="17" fill="#a3afbf">feature → main</text>
+<text x="56.0" y="374" font-family="sans-serif" font-size="17" fill="#e7edf5">CI: passing</text>
+<text x="56.0" y="417" font-family="sans-serif" font-size="17" fill="#a3afbf">Review / Agent / Merge</text>
+<rect x="418.6666666666667" y="115" width="362.6666666666667" height="510" rx="12" fill="#1b232e" stroke="#354052"/>
+<text x="438.6666666666667" y="154" font-family="sans-serif" font-size="21" fill="#79b7ff">Review</text>
+<text x="438.6666666666667" y="202" font-family="sans-serif" font-size="17" fill="#e7edf5">Files / Checks / Comments</text>
+<text x="438.6666666666667" y="245" font-family="sans-serif" font-size="17" fill="#a3afbf">+ const enabled = true;</text>
+<text x="438.6666666666667" y="288" font-family="sans-serif" font-size="17" fill="#e7edf5">- const enabled = false;</text>
+<text x="438.6666666666667" y="331" font-family="sans-serif" font-size="17" fill="#a3afbf">Select a diff line</text>
+<text x="438.6666666666667" y="374" font-family="sans-serif" font-size="17" fill="#e7edf5">Write review comment</text>
+<text x="438.6666666666667" y="417" font-family="sans-serif" font-size="17" fill="#a3afbf">Explicit submit</text>
+<rect x="801.3333333333334" y="115" width="362.6666666666667" height="510" rx="12" fill="#1b232e" stroke="#354052"/>
+<text x="821.3333333333334" y="154" font-family="sans-serif" font-size="21" fill="#79b7ff">Confirm merge</text>
+<text x="821.3333333333334" y="202" font-family="sans-serif" font-size="17" fill="#e7edf5">Revalidate PR identity</text>
+<text x="821.3333333333334" y="245" font-family="sans-serif" font-size="17" fill="#a3afbf">Revalidate revision</text>
+<text x="821.3333333333334" y="288" font-family="sans-serif" font-size="17" fill="#e7edf5">Choose permitted method</text>
+<text x="821.3333333333334" y="331" font-family="sans-serif" font-size="17" fill="#a3afbf">Respect branch protection</text>
+<text x="821.3333333333334" y="374" font-family="sans-serif" font-size="17" fill="#e7edf5">Cancel / Confirm</text>
+<text x="821.3333333333334" y="417" font-family="sans-serif" font-size="17" fill="#a3afbf">No automatic merge</text>
+<text x="36" y="666" font-family="sans-serif" font-size="15" fill="#a3afbf">SYNTHETIC SCHEMATIC · Invented data · Not a screenshot or live integration test</text>
+<text x="36" y="696" font-family="sans-serif" font-size="14" fill="#a3afbf">Personal Herdr mods · Colors and proportions are illustrative</text>
+</svg>
